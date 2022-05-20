@@ -1,4 +1,4 @@
-## Análisis Estadístico
+# Análisis Estadístico
 
 # Reto Etapa 1
 
