@@ -6,4 +6,7 @@ Una agencia de autos seminuevos quiere predecir el precio de venta de un automó
 Se recolectaron 31 datos de los precios de venta de los autos tomando en cuenta variables como antigüedad, kilometraje (miles), 
 condición (mala, promedio o excelente) y si el auto ha tenido un sólo dueño.
 
-Por: Armando Terrazas
+Por: 
+Armando Terrazas A01640924
+Gilberto
+Fernando Gómez
