@@ -1,12 +1,22 @@
-# Análisis Estadístico
+# Car Sales Price Prediction using Linear, Logarithmic and Polynomial Regressions
 
-## Reto Etapa 1
+## Description
 
-Una agencia de autos seminuevos quiere predecir el precio de venta de un automóvil de marca Camaro. 
-Se recolectaron 31 datos de los precios de venta de los autos tomando en cuenta variables como antigüedad, kilometraje (miles), 
-condición (mala, promedio o excelente) y si el auto ha tenido un sólo dueño.
+This repository contains a project that uses linear, logarithmic and polynomial regressions to predict the sale price of Camaro brand cars for a used car agency. 31 data points of car sale prices were collected, taking into account variables such as age, mileage (in miles), condition (poor, average or excellent) and whether the car has had a single owner. Tools such as pandas, matplotlib and Scikit Learn in python were used.
 
-Por: 
-Armando Terrazas A01640924
-Gilberto
-Fernando Gómez
+## Installation
+
+To run the code in this repository, you will need to have Python and the following libraries installed: pandas, matplotlib and Scikit Learn. You can then clone the repository and run Jupyter Notebook.
+
+## Features
+
+- Prediction of car sale prices using linear, logarithmic and polynomial regressions.
+- Collection of 31 data points of car sale prices.
+- Use of variables such as age, mileage, condition and single ownership to predict sale price.
+- Implementation in Python using pandas, matplotlib and Scikit Learn.
+
+## Contributors
+
+- [@Armandotrsg](https://github.com/Armandotrsg)
+- [@Fergomar](https://github.com/Fergomar1320)
+- Gilberto
